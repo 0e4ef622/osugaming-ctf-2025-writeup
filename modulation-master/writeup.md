@@ -59,5 +59,5 @@ get a score. The lower the score, the better they match.
 
 |   | 2 | 3 | 4 | 5 | 6 | 7 |
 | - | - | - | - | - | - | - |
-| 0 | Score: 0<br>![diff2_0](./imgs/diffs/diff2_0.png) | Score: 0<br>![diff3_0](./imgs/diffs/diff3_0.png) | Score: 2153.38<br>![diff4_0](./imgs/diffs/diff4_0.png) | Score: 0<br>![diff5_0](./imgs/diffs/diff5_0.png) | Score: 0<br>![diff6_0](./imgs/diffs/diff6_0.png) | Score: 2152.44<br>![diff7_0](./imgs/diffs/diff7_0.png) |
-| 1 | Score: 2153.72<br>![diff2_1](./imgs/diffs/diff2_1.png) | Score: 2153.72<br>![diff3_1](./imgs/diffs/diff3_1.png) | Score: 1154.24<br>![diff4_1](./imgs/diffs/diff4_1.png) | Score: 2153.72<br>![diff5_1](./imgs/diffs/diff5_1.png) | Score: 2153.72<br>![diff6_1](./imgs/diffs/diff6_1.png) | Score: 2289.86<br>![diff7_1](./imgs/diffs/diff7_1.png) |
+| 0 | Score: 1934.87<br>![diff2_0](./imgs/diffs/diff2_0.png) | Score: 1934.69<br>![diff3_0](./imgs/diffs/diff3_0.png) | Score: 1934.11<br>![diff4_0](./imgs/diffs/diff4_0.png) | Score: 961.08<br>![diff5_0](./imgs/diffs/diff5_0.png) | Score: 1145.86<br>![diff6_0](./imgs/diffs/diff6_0.png) | Score: 1314.66<br>![diff7_0](./imgs/diffs/diff7_0.png) |
+| 1 | Score: 192.31<br>![diff2_1](./imgs/diffs/diff2_1.png) | Score: 384.91<br>![diff3_1](./imgs/diffs/diff3_1.png) | Score: 577.03<br>![diff4_1](./imgs/diffs/diff4_1.png) | Score: 1932.62<br>![diff5_1](./imgs/diffs/diff5_1.png) | Score: 1932.71<br>![diff6_1](./imgs/diffs/diff6_1.png) | Score: 1933.55<br>![diff7_1](./imgs/diffs/diff7_1.png) |
